@@ -5,7 +5,7 @@ about:
   head: d987667
   archived: false
   latestVersion: "v1.2.1"
-  collectedAt: 2026-09-07T04:21:30Z
+  collectedAt: 2026-09-07T20:07:12Z
 timeline:
   created: 2025-06-09
   lastCommit: 2026-09-06
@@ -81,7 +81,7 @@ total:
   commit: 110
 ---
 path: /home/runner/.x-repo/github.com/azizuysal/simtool
-collectedAt: 2026-09-07T04:21:31Z
+collectedAt: 2026-09-07T20:07:14Z
 loc:
   Go:
     code: 15865
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:32+00:00
+  collectedAt: 2026-09-07T20:07:14+00:00
   platform:
     darwin/arm64:
       name:  simtool_1.2.1_darwin_all.tar.gz
