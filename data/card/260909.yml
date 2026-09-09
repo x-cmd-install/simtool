@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.1"
   latestRelease: "v1.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:27:00Z
+  collectedAt: 2026-09-09T18:24:00Z
 timeline:
   created: 2025-06-09
   lastCommit: 2026-09-06
@@ -35,7 +35,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 1
@@ -43,7 +43,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 1
@@ -51,7 +51,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 3
@@ -59,7 +59,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 35
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 3
@@ -67,7 +67,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 37
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 9
@@ -85,7 +85,7 @@ total:
   commit: 110
 ---
 path: /home/runner/.x-repo/github.com/azizuysal/simtool
-collectedAt: 2026-09-09T04:27:01Z
+collectedAt: 2026-09-09T18:24:13Z
 loc:
   Go:
     code: 15865
