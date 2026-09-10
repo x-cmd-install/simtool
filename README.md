@@ -22,7 +22,16 @@ x install simtool
 - **Latest**: `v1.2.1` (2026-09-06)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 5
-- **Published**: 2026-09-06T09:04:59Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/azizuysal/simtool/releases/download/v1.2.1/checksums.txt) | 299 B | `other` |
+| [checksums.txt.sigstore.json](https://github.com/azizuysal/simtool/releases/download/v1.2.1/checksums.txt.sigstore.json) | 9.9 KiB | `other` |
+| [simtool_1.2.1_darwin_all.tar.gz](https://github.com/azizuysal/simtool/releases/download/v1.2.1/simtool_1.2.1_darwin_all.tar.gz) | 9.5 MiB | `native/darwin/x64` |
+| [simtool_1.2.1_darwin_all.tar.gz.cdx.json](https://github.com/azizuysal/simtool/releases/download/v1.2.1/simtool_1.2.1_darwin_all.tar.gz.cdx.json) | 54.4 KiB | `native/darwin/x64` |
+| [simtool_1.2.1_source.tar.gz](https://github.com/azizuysal/simtool/releases/download/v1.2.1/simtool_1.2.1_source.tar.gz) | 2.6 MiB | `native/unknown` |
 
 ## Popularity
 
@@ -56,8 +65,8 @@ Total: **15,962** lines of code across **95** files in the top 5 languages.
 Install metadata for simtool lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `simtool` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/simtool.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/simtool.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:24:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:10Z._
