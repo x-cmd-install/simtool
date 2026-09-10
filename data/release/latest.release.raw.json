@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2691096,
       "digest": "sha256:e11198c2d6b0c0adb91876d47ba34c3bfcb1c878852bb46f4423a14a5eaa3e08",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-06T09:04:58Z",
       "updated_at": "2026-09-06T09:04:58Z",
       "browser_download_url": "https://github.com/azizuysal/simtool/releases/download/v1.2.1/simtool_1.2.1_source.tar.gz"
