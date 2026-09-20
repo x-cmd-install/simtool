@@ -4,7 +4,7 @@
 
 Terminal UI for browsing iOS simulators and Android emulators, apps, and files on macOS
 
-![simtool](https://repo.x-cmd.io/simtool.svg)
+[![x-cmd/install — simtool Code Quality Monitoring Repo Card](https://repo.x-cmd.io/simtool.svg)](https://x-cmd.com/install/simtool)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **19,416** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 3 | 1 | 0 | 0 | 7 |
-| last60d | 2026-07-20 | 2 | 3 | 1 | 0 | 0 | 7 |
-| 90d | 2026-06-20 | 2 | 3 | 1 | 0 | 0 | 7 |
-| last180d | 2026-03-22 | 4 | 3 | 1 | 0 | 0 | 39 |
-| 360d | 2025-09-23 | 4 | 3 | 1 | 0 | 0 | 41 |
-| last720d | 2024-09-28 | 10 | 3 | 1 | 0 | 0 | 114 |
+| 30d | 2026-08-21 | 2 | 3 | 1 | 0 | 0 | 7 |
+| last60d | 2026-07-22 | 2 | 3 | 1 | 0 | 0 | 7 |
+| 90d | 2026-06-22 | 2 | 3 | 1 | 0 | 0 | 7 |
+| last180d | 2026-03-24 | 4 | 3 | 1 | 0 | 0 | 39 |
+| 360d | 2025-09-25 | 4 | 3 | 1 | 0 | 0 | 41 |
+| last720d | 2024-09-30 | 10 | 3 | 1 | 0 | 0 | 114 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for simtool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:28:33Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:43:45Z._
