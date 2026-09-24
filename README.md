@@ -46,12 +46,12 @@ Total: **19,416** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 2 | 3 | 1 | 0 | 0 | 7 |
-| last60d | 2026-07-25 | 2 | 3 | 1 | 0 | 0 | 7 |
-| 90d | 2026-06-25 | 2 | 3 | 1 | 0 | 0 | 7 |
-| last180d | 2026-03-27 | 4 | 3 | 1 | 0 | 0 | 39 |
-| 360d | 2025-09-28 | 4 | 3 | 1 | 0 | 0 | 41 |
-| last720d | 2024-10-03 | 10 | 3 | 1 | 0 | 0 | 114 |
+| 30d | 2026-08-25 | 2 | 3 | 1 | 0 | 0 | 7 |
+| last60d | 2026-07-26 | 2 | 3 | 1 | 0 | 0 | 7 |
+| 90d | 2026-06-26 | 2 | 3 | 1 | 0 | 0 | 7 |
+| last180d | 2026-03-28 | 4 | 3 | 1 | 0 | 0 | 39 |
+| 360d | 2025-09-29 | 4 | 3 | 1 | 0 | 0 | 41 |
+| last720d | 2024-10-04 | 10 | 3 | 1 | 0 | 0 | 114 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for simtool lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:35:02Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:32:05Z._
