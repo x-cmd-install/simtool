@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 55677,
       "digest": "sha256:9b072571914c65e741f06b68f3545f2688904228908aaa74c489fa9358c4c9d1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T09:08:00Z",
       "updated_at": "2026-09-11T09:08:00Z",
       "browser_download_url": "https://github.com/azizuysal/simtool/releases/download/v1.3.0/simtool_1.3.0_darwin_all.tar.gz.cdx.json"
