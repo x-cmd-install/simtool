@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13156859,
       "digest": "sha256:e376f4d0cd4fe5d9ea87f956b4066208068655e4de5732a43b6846d750d914ee",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-04T13:57:33Z",
       "updated_at": "2026-11-04T13:57:34Z",
       "browser_download_url": "https://github.com/azizuysal/simtool/releases/download/v1.3.1/simtool_1.3.1_darwin_all.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2721107,
       "digest": "sha256:0ea30f3f4683bfbb95db7148feae0006f759938f93668a98d0ba16de17051283",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-04T13:57:33Z",
       "updated_at": "2026-11-04T13:57:33Z",
       "browser_download_url": "https://github.com/azizuysal/simtool/releases/download/v1.3.1/simtool_1.3.1_source.tar.gz"
